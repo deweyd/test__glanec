@@ -1,0 +1,55 @@
+
+body{
+  font-family: clear, sans-serif;
+  color: #3A4047;
+  font-size: 16px;
+
+}
+
+$red:#d00522;
+a{
+  color: #fff;
+  display: block;
+}
+
+h1{
+  font-family:clear-bold,sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+}
+h2{
+  font-family:clear-bold,sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  color: #000;
+}
+h3{
+  font-family:clear-bold,sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: $red;
+}
+h4{
+  font-family:clear-bold,sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: $red;
+}
+//section{
+//  //padding: 90px 0;
+//  overflow: hidden;
+//
+//}
+@media (max-width: 768px) {
+  //h1 {
+  //  font-family: muller-bold,sans-serif;
+  //  font-size: 30px;
+  //  font-weight: 400;
+  //  text-transform: uppercase;
+  //}
+  //section{
+  //  padding: 40px 0;
+  //  overflow: hidden;
+  //
+  //}
+}
